@@ -1,7 +1,9 @@
 # README
  
-가상환경 적용.
+가상환경 적용.  
+````bash
 pip install -r requirements.txt
+````
 
 python3 visual.py를 하면 pretrain된 weight로 lendmark 검출.  
 
